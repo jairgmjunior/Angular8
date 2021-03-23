@@ -1,4 +1,4 @@
-# FirstProject
+# Angular 8
 
 Initial study project
 
